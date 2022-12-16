@@ -4,9 +4,9 @@
 
 def uppercase(str):
     for i in range(len(str)):
-# Can also be "for i in str"
+# could also be "for i in str"
         input = ord(str[i])
-# If the above commented method is preferred then this code would be "input = ord(i)
+# If the above commented method is preferred then this code would be "input = ord(i)"
         if input > 96 and input < 123:
             input -= 32
         print("{}".format(chr(input)), end="")
