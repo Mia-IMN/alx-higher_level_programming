@@ -4,10 +4,10 @@ number = random.randint(-10000, 10000)
 
 
 def last_num(n):
- if n < 0:
-  return( n % -10)
- else: 
-  return( n % 10)
+    if n < 0:
+        return(n % -10)
+    else:
+        return(n % 10)
 
 def conditional(n):
  if n > 5:
