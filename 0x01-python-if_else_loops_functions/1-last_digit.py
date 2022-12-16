@@ -19,5 +19,4 @@ def check(n):
         return("and is 0")
 
 
-
 print("Last digit of {} is {} ".format(number, lNum(number)) + check(number))
