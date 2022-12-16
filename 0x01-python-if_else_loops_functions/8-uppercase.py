@@ -8,5 +8,5 @@ def uppercase(str):
         if l > 96 and l < 123:
             l -= 32
         print("{}".format(chr(l)), end="")
-    print(" ")
+    print("")
 
