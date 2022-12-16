@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# A function that prints the numbers from 1 to 100 with successive words attached
+# Prints the numbers from 1 to 100 with successive words attached
 
 def fizzbuzz():
     for first in range(1, 101):
