@@ -1,4 +1,4 @@
-B0;10;1c#!/usr/bin/python3
+#!/usr/bin/python3
 
 # Write a function that prints a string in uppercase followed by a new line
 
