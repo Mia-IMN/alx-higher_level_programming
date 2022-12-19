@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 
-# Write a function that prints a string in uppercase followed by a new line
+# A function that outputs a string in uppercase followed by a new line
 
 def uppercase(str):
     for i in str:

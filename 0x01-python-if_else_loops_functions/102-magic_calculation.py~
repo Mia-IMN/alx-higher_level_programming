@@ -1,4 +1,0 @@
-Include/opcode.h
-def magic_calculation(a, b, c):
-    if a < b:
-        c += c
