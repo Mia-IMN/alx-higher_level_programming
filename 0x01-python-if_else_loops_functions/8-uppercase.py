@@ -9,4 +9,3 @@ def uppercase(str):
             string -= 32
         print("{}".format(chr(string)), end="")
     print("")
-
