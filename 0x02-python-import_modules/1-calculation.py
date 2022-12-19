@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 
 # Program that imports function from the file calculator_1.py
-# Does some Maths and prints the result
+# Does some Maths and displays the result
 
 if __name__ == "__main__":
 
