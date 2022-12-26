@@ -1,0 +1,2 @@
+import sys
+write(1, 1, "#pythoniscool")
