@@ -2,12 +2,13 @@
 
 "Compare 2 squares"
 
+
 class Square:
     """ private instance attribute: size
     property setter: def size(self, value):
     Instantation with size: def __init__(self, size=0):
     public instance method: def area(self):"""
-   
+
     def __init__(self, size=0):
         self.size = size
 
