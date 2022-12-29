@@ -1,0 +1,8 @@
+#!/usr/bin/python3
+
+def max_integer(my_list=[]):
+    for ser in range(len(my_list)):
+        max_num = 0
+        if ser > max_num:
+            max_num = ser
+        return max_num
